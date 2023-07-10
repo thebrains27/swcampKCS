@@ -1,0 +1,37 @@
+1. github : 소스코드를 저장하는 클라우드 공간. 공유가능. 협업 가능.
+
+- repository 생성하기
+
+
+GitHub: Let’s build from here
+GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and fea...
+
+github.com
+
+2. git 설치
+
+- 소스코드를 로컬 컴퓨터와 gitHub의 Repositery 사이에 전송하는 역할을 함
+
+ 
+Git
+About The advantages of Git compared to other source control systems. Documentation Command reference pages, Pro Git book content, videos and other material. Downloads GUI clients and binary releases for all major platforms. Community Get involved! Bug reporting, mailing list, chat, development and ...
+
+git-scm.com
+
+3. 터미널 설정
+
+- 시작 - Git Bash 클릭
+
+- 환경설정하기
+
+$ git config --global user.name  "사용자이름"             ex> "csKo"
+
+   git config user.name
+
+$ git config --global user.email  "사용자 이메일주소"    ex> "silla7@naver.com"
+
+   git config user.email
+
+$ git config --list  (환경설정 내용에서 name과 email 확인)
+
+$ code . (vscode와 연결)
